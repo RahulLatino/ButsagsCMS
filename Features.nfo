@@ -1,0 +1,30 @@
+Added:
+-Ranking counts rebirths.
+-Clicking character's names jumps to a new player page with stats and item inventory.
+-Info page(holds server info) viewable by users through C-Panel and editable through Admin-Cpanel.
+-GM Panel link now shows up in the side menu and links to gm panel(obviously).
+-When logged in, if a main character is set in profile settings, it will say welcome , (your name) and your name will link to a page with your main char's stats followed by a image of your main character.
+-Right below the greeting, if main char is set, a image of your main char will pop up.
+-Added all Cygnus Knights to ranking with option to sort by cygnus knights(sorry for the image, its kinda crappy, it was a makeshift)
+-Download page has the newest maplestory download box.(ripped off maplestory.nexon.net by me..shhh)
+-Multiple styles, changeable by user in the footer if the user is logged in.
+-Player page now displays equipment on equipment inventory table like in game with a switch at the bottom to alter between showing nx equips and normal equips.
+-Random Screenshot displayer on main page that grabs 2 random images from images/screenshots/ .
+-Gms can upload screenshots on the website through the Gm-Cpanel(gm must be set to = 1 under the accounts table for the user to be able to access the Gm-Cpanel )
+-Screenshot page that shows all screenshots(through C-panel)
+-Staff page shows admins(gm level 5) followed by supergms(gm level 4) and lastly gms(gm level 1-3 and ranked by gm level) (through C-panel).
+-See all screenshots page(through C-panel).
+-Added right clicking security covering the whole website(better than javascript version) so that no one can steal your shiet =)
+-Added more game info on main page, right hand side.
+-75% of buttons are now input buttons to give the site a more styleish look and cuz normal links r old-school ;)
+-Working redirect on login.
+-All-In-One Teleport Manager in C-panel under character fixes filled with most usefull maps up to v62. Add more if youd like :)
+-User C-Panel Message Has Now Been Implemented.
+-Cursors work just like styles now. Upload/Edit/Delete through Admin C-panel. Change default through Admin C-panel>Properties. Users can select which one they want to use if logged in. 
+-Fixed screenshot directory listing. No need to manualy configure it now.
+-Install.php error removed.
+-Download images correctly linked.
+-Chatbox code can be changed through Admin CP>Properties.
+-C-panel > Account settings fixed.
+-MySQL error Fixed.
+-Forum link editable through Admin CP>Properties.

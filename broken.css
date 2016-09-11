@@ -1,0 +1,81 @@
+
+/*¯¯¯¯|¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯|¯¯¯||¯¯¯|¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯|¯¯¯¯*\
+|###########################################|
+|#_____________________..ButsagsCMS.._____________________#|
+|#______.Copyright ©2000-2009 Chris Ingis. All Rights Reserved._____#|
+|###########################################|
+\*____|_____|________|___|___||___|___|________|______|____*/
+
+
+
+/*
+CSS Style-Sheet
+*/
+html,body{
+	height:100%;
+}
+body{
+	background:#00BBEE url(images/mulung.jpg) repeat-x fixed center bottom;
+	width:100%;
+	min-height:100%;
+	margin:0;
+	padding:0;
+	color:#fff;
+	font:normal 15px tahoma;
+}
+form{
+	margin:0px;
+}
+table,input,select{
+	font:normal 100% tahoma;
+}
+img{
+	border:0;
+	margin:0;
+}
+table{
+	border-collapse:collapse;
+}
+a{
+	color:#f3f3f3;
+}
+h1{
+	font:bold 20px arial;
+	margin:0px;
+}
+h4{
+	font:bold 12px arial;
+	margin:0px
+}
+input{
+    background:#3366FF;
+	border:1px solid #000;
+	width:150px;
+}
+textarea{
+	border:1px solid #000;
+}
+select{
+	border:1px solid #000;
+}
+.w100{
+	width:100%;
+}
+.h100{
+	height:100%;
+}
+.outercontainer{
+	margin:0 auto;
+	border:solid 1px #fff;
+}
+.innercontainer{
+	width:500px;
+	height:100px;
+	background:#00BBEE;
+	padding-left:4px;
+	padding-bottom:500px;
+	padding-right:4px;
+    filter:alpha(opacity=55);
+    -moz-opacity:.55;
+    opacity:.55; 
+}

@@ -1,0 +1,35 @@
+
+For a Fresh install follow these instructions:
+
+                   _____________________________
+                  |___ButsagsCMS Instuctions____|
+               |¯¯¯|___________________________|¯¯¯|
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| 1) - Execute all SQL scripts located at \SQL\ except update.sql|
+|                                                                |
+| 2) - Now go to the ButsagsCMS directory in your web browser    |
+|      and it should open the installer.                         |
+|                                                                |
+| 3) - Configure your copy of ButsagsCMS to correctly reflect    |
+|      your private server.                                      |
+|                                                                |
+| 4) - Enjoy!             ^^^^^^^^^^^^^^^                        |
+|                         |||||||||||||||                        |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯Ingis.com/forum¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+ ¯¯¯¯|---|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|---|¯¯¯¯
+   ¯¯¯¯¯¯¯¯¯                                          ¯¯¯¯¯¯¯¯¯  
+
+
+How to Update:
+
+If you are updating from an older version of ButsagsCMS, only run the update.sql in the /SQL/ directory.
+
+
+
+------Support------
+-If your front page isn't loading(because of an error about it cant find a table about reborns), go to SQL and run the Ranking Reborns script and it should fix the problem.
+-If you get a connection problem, revise config/database.php.
+-If you get two or three error on the front page, check that you executed the mysql scripts in your querry browser or navicat or whatever fancies you.
+
+--------FYI--------
+To open the Features.nfo and the License.nfo, right click > Open With > Notepad ;)
